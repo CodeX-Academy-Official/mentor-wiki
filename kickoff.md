@@ -18,6 +18,7 @@ Please schedule a quick call with the learner to discuss the following points. Y
 - Agree to a mentoring cadence.
 - Go over Google Meet, audio settings, and screen sharing
 - Ask them to share their pathway with you including progress (logged in, pathway screen, share button in upper right)
+  - Add this as the channel topic in slack so that it's easy to get to. You'll want to refer to it from time to time.
 - Schedule first mentoring session.
 
 

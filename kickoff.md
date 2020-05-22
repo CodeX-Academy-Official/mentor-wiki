@@ -3,7 +3,7 @@ This document is a work in progress. When in doubt, talk to Byron or Christian.
 # Learner Kickoff Call
 
 Please schedule a quick call with the learner to discuss the following points. You may need to take some notes for your own purposes.
-- Your role as a menåtor, resource, coach and cheerleader
+- Your role as a mentor, resource, coach and cheerleader
 - Learner’s responsibility to study independently. Mentor sessions are meant to supplement independent study.
 - Stay focused on competencies for each badge. Don't over-study or over-learn. Just-in-time learning.
 - How suggested learning works 

@@ -46,3 +46,13 @@ In a screen share:
 
 The student has put their blood, sweat and tears into this project. So, it's important NOT to make the student feel bad about their project if they don't pass. If the project doesn't meet the requirements, the student can go back and fix the issues or add functionality in order to implement a missing technology. Then, when they are ready, they can schedule another project evaluation. 
 
+#### Extra Credit
+
+If you feel like the project would be a good part of the student's professional portfolio, give them some pointers on how to make it better as a true portfolio piece. Some common suggestions:
+
+- Add some features to make it really useful for people
+- Some small bugs to fix
+- Add the public application URL to the readme.md 
+- Try to keep the application on and available as a demo project.
+- Turn the readme.md into a tutorial on how to build a site like this.
+- Write a blog article to showcase the application/how to build it

@@ -23,4 +23,26 @@ When a student fails an eval, I try to let them down easy and not make them feel
 
 Project evals are slightly different and last longer (50-60 min) than badge evals. This is where they send all the relevant urls so we can try out the project application and see the code. I also have them walk me through the app functionality, pointing out details they think are important, and also telling me how the code works.
 
-- Have the student demonstrate the application in a screen share, show off the code, talk about important pieces.
+#### We need:
+
+- Url to public git repository where code is stored
+- Url to deployed front-end web application
+- Url to deployed back-end (if applicable)
+
+#### Steps:
+
+In a screen share:
+- Tour of the front-end application
+- Tour of the back-end API (if applicable)
+- Tour of the code (both front-end and back-end)
+- Ask the student some questions along the way to probe their decision-making process.
+
+#### Look for:
+- Working without major bugs
+- The developer's own work (copy-pasting allowed only for template code)
+- Application of skills taught in the same level (check project badge for details)
+
+#### What happens when a project doesn't pass?
+
+The student has put their blood, sweat and tears into this project. So, it's important NOT to make the student feel bad about their project if they don't pass. If the project doesn't meet the requirements, the student can go back and fix the issues or add functionality in order to implement a missing technology. Then, when they are ready, they can schedule another project evaluation. 
+

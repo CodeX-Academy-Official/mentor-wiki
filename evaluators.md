@@ -46,6 +46,11 @@ In a screen share:
 
 The student has put their blood, sweat and tears into this project. So, it's important NOT to make the student feel bad about their project if they don't pass. If the project doesn't meet the requirements, the student can go back and fix the issues or add functionality in order to implement a missing technology. Then, when they are ready, they can schedule another project evaluation. 
 
+#### What happens if we run out of time?
+
+If you feel the eval ran over for legitimate reasons, have the student use your personal calendly link to schedule a new eval
+ If they use the badge calendly link, the round robin selection might give them another evaluator.
+
 #### Extra Credit
 
 If you feel like the project would be a good part of the student's professional portfolio, give them some pointers on how to make it better as a true portfolio piece. Some common suggestions:

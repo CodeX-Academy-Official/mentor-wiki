@@ -20,6 +20,7 @@ Please schedule a quick call with the learner to discuss the following points. Y
 - Ask them to share their pathway with you including progress (logged in, pathway screen, share button in upper right)
   - Add this as the channel topic in slack so that it's easy to get to. You'll want to refer to it from time to time.
 - Schedule first mentoring session.
+
 Once call is done:
 - Fill out the mentor kick off form: [Mentor Kick Off Form](https://share.hsforms.com/7092117/c4819cdf-cc3f-401d-ae67-7f9697db235f)
 

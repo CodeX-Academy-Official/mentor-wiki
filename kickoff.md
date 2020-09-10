@@ -22,6 +22,6 @@ Please schedule a quick call with the learner to discuss the following points. Y
 - Schedule first mentoring session.
 
 Once call is done:
-- Fill out the mentor kick off form: [Mentor Kick Off Form](https://docs.google.com/forms/d/e/1FAIpQLScsqa_g8pzsRnENZbY5SuzPHyWainpaeRp74WMILLVDrqJnGg/viewform)
+- Log the kickoff time: [Mentor Kick Off Form](https://docs.google.com/forms/d/e/1FAIpQLScsqa_g8pzsRnENZbY5SuzPHyWainpaeRp74WMILLVDrqJnGg/viewform)
 
 

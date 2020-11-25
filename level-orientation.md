@@ -7,6 +7,7 @@ Starting with Level 2, students will need to participate in a live "Level Orient
 * Go over the level in a screen share and talk about a general "game-plan" for how to work through the badges.
 * Look at the project badge at the end of the level together. If the badge indicates, talk through a potential project to shoot for. Get the learner to commit to that project scope. Take some notes together and add those notes to the badge evidence when claiming the badge.
 * Discuss a plan for some potential "instructional videos" the learner can make to serve as portfolio pieces and evaluation videos.
+* Discuss a goal for completion of the level. Post that goal in the learner's channel as a reminder.
 
 ## Certified Front-End Developer
 

@@ -27,6 +27,6 @@ Please schedule a quick call with the learner to discuss the following points. Y
 - Schedule first mentoring session.
 
 Once call is done:
-- Log the kickoff time: [Mentor Kick Off Form](https://docs.google.com/forms/d/e/1FAIpQLScsqa_g8pzsRnENZbY5SuzPHyWainpaeRp74WMILLVDrqJnGg/viewform)
+- You will receive a Process form where you can log the time you needed for the kickoff.
 
 
